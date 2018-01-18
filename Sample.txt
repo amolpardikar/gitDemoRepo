@@ -9,3 +9,5 @@ Bug Fixed.
 
 Enhancements done.
 >>>>>>> enhancements
+
+c:\myMavenProject>mvn archetype:generate -DgroupId=com.demo -DartifactId=FirstProject -DarchettypeArtiaictId=maven-archtype.quickstart -DinterractiveMode=True
